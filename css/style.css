@@ -1,0 +1,53 @@
+body {background-color: #fdcb6e;
+
+}
+p.two{border-style: dashed;border-width: 2pt;border-color: #00cec9 }
+p.one{border-style: dotted;border-width: 2px;border-color: #0984e3;}
+p.three{border-style: solid; border-width: 0.5cm; border-color: #e84393}
+p.four{border-style: double; border-width: thin; border-color: #d63031}
+p.five{border-style: groove; border-width: medium; color: #e17055}
+p.six{border-style: ridge;border-width: thick; border-color: #fd79a8}
+p.seven{border-style: inset;border-width: 2px; color: #ff7675}
+p.eight{border-style: outset;border-width: 2px; color: #2980b9} 
+p.nine{border-style: mixed; border-width: 3px; color: 2ecc71}
+
+h4.two{border-style: dashed;border-width:15px 10px 5px 10px ;border-color: #00cec9 }
+h4.one{border-style: double;border-width: 15px 50px ;border-color: #0984e3;}
+h4.three{border-style: solid; border-width:30px 60px ; border-color: #e84393}
+h4.four{border-style: solid; border-width:50px 25px 50px 25px ; border-color: #d63031}
+
+h3.two{border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style:solid;
+	border-left-style: solid; border-top-width:50px; 
+	border-bottom-width:50px; border-left-width:70px;border-right-width:70px; border-color: #00cec9;}
+
+h3.one{border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style:solid;
+	border-left-style: solid; border-top-width:40px; 
+	border-bottom-width:40px; border-left-width:60px;border-right-width:60px;
+	border-top-color: #7bed9f;
+	border-bottom-color:#ff4757 ;
+	border-left-color:#1e90ff;
+	border-right-color:#ffa502;}
+
+
+h3.three{border-top-style: dashed;
+	border-right-style: solid;
+	border-bottom-style:dotted;
+	border-left-style: double; border-top-width:5px; 
+	border-bottom-width:5px; border-left-width:20px;border-right-width:20px;
+
+	border-top-color: #7bed9f;
+	border-bottom-color:#ff4757 ;
+	border-left-color:#1e90ff;
+	border-right-color:#ffa502;}
+
+
+	h2.one{ border:2px solid red; padding: 20px; border-radius: 150px 80px 900px 300px; }
+	h2.two{ border:2px solid green; padding: 25px; border-radius: 30px; }
+    h2.three{ border:2px solid #3742fa; padding: 20px; border-radius: 100px; }
+    h2.four{ border:2px solid red; padding: 20px; border-radius: 500px 300px 40px; }
+
+
